@@ -1,8 +1,8 @@
-# reword
+# reword 📨
 A tool to reword phrases - can be used to generate training phrases for chatbot agent.
 
 
-## Installation
+## Installation 🛠
 ```$ git clone https://github.com/AaditT/reword```<br/>
 ```$ cd reword```<br/>
 
