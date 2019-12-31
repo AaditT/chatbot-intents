@@ -27,7 +27,3 @@ def gen_phrases(txt):
             if word[1] == "NN":
                 for syn in gen_syn(word[0]):
                     print(txt.replace(str(word[0]),str(syn)))
-
-
-
-txt = input(print("Enter phrase: "))
